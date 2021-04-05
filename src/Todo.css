@@ -1,0 +1,22 @@
+.todo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-group {
+}
+
+.btn-edit {
+  background-color: orangered;
+  color: white;
+}
+.btn-del {
+  background-color: orangered;
+  color: white;
+  margin-left: 5px;
+}
+
+.completed {
+  color: lightgray;
+  text-decoration: line-through;
+}
